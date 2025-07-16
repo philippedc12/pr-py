@@ -8,7 +8,8 @@ productos = {'8475HD':['HP', 15.6, '8GB', 'DD', '1T', 'Intel Core i5', 'Nvidia G
 'UWU131HD':['Dell', 15.6, '8GB', 'DD', '1T', 'AMD Ryzen 3', 'Nvidia GTX1050']
 }
 
-cambio1=0
+editando_github=1
+
 
 # productos = {modelo : [marca, pantalla, RAM, disco, GB de DD, procesador, video ...]}
 # (DD)= Mecanico y (SSD)= Estado solido
